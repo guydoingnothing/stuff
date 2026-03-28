@@ -1,3 +1,5 @@
+After downloading a file and changing the directory path to that file, do dotnet run
+
 Hi I am 11 yaears old (beard, cane, stuff) I live in Antarctica; my phone number is 911. I'm in 5202 BCE.
 Fun fact: I have an account on Github. WOWOW
 Awesome repository you might want to check out: https://github.com/guydoingnothing/stuff/
