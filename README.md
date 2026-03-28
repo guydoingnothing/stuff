@@ -3,11 +3,13 @@ Fun fact: I have an account on Github. WOWOW
 Awesome repository you might want to check out: https://github.com/guydoingnothing/stuff/
 Check out my stuff for beatings! And maybe an occasional WHOOP into next week!
 
+```
  ______
 /   👁️  \    /‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾\
 |   🐽   |  <    HAWHAWHAWHAW I mean...  |
 \ ΔΔΔΔΔ /    \__________________________/
  ‾‾‾‾‾‾‾
+```
 
 I first went to Github when I was a person, and now I'm NOT (I'm an alien)
 and nothing's changed! My day job involves baba coding, whooping people into next week,
